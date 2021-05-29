@@ -1,2 +1,2 @@
 # Paper-Frontline
-(ttps://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
