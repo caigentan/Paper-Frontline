@@ -14,3 +14,8 @@ If you have any high-quality papers or ideas that you want to share, we welcome 
 - [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.02057)  
 - [Swin-Unet: Unet-like Pure Transformer forMedical Image Segmentation](https://arxiv.org/pdf/2105.05537)
 
+📅 - 2021-05-30
+- [Context-aware Cross-level Fusion Network for Camouflaged Object Detection](https://arxiv.org/pdf/2105.12555)
+- [Feature Reuse and Fusion for Real-time Semantic segmentation](https://arxiv.org/pdf/2105.12964)
+- [Gated Fusion Network for SAO Filter and Inter Frame Prediction in Versatile Video  Coding](https://arxiv.org/pdf/2105.12229)
+- [Multi-FeatureFusion-basedSceneClassificationFrameworkforHSRImages](https://arxiv.org/pdf/2105.10758)
