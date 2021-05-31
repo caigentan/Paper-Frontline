@@ -24,5 +24,5 @@ If you have any high-quality papers or ideas that you want to share, we welcome 
 - [RGB-D Salient Object Detection: A Survey](https://arxiv.org/pdf/2008.00230)
 - [Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding arXiv:2103.15358v1](https://arxiv.org/pdf/2103.15358v1)
 - [Robust Facial Expression Recognition with Convolutional Visual Transformers](https://arxiv.org/pdf/2103.16854)
-- [S-AT GCN: Spatial-Attention Graph Convolution Network based Feature Enhancement for 3D Object Detection](S-AT GCN: Spatial-Attention Graph Convolution Network based Feature Enhancement for 3D Object Detection)
+- [S-AT GCN: Spatial-Attention Graph Convolution Network based Feature Enhancement for 3D Object Detection](https://arxiv.org/pdf/2103.08439)
 - [EKENet: Efficient knowledge enhanced network for real-time scene parsing]
