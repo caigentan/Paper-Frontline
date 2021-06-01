@@ -26,3 +26,9 @@ If you have any high-quality papers or ideas that you want to share, we welcome 
 - [Robust Facial Expression Recognition with Convolutional Visual Transformers](https://arxiv.org/pdf/2103.16854)
 - [S-AT GCN: Spatial-Attention Graph Convolution Network based Feature Enhancement for 3D Object Detection](https://arxiv.org/pdf/2103.08439)
 - EKENet: Efficient knowledge enhanced network for real-time scene parsing
+
+📅 - 2021-05-31 Happy Children's Day 🧒
+- [TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking](https://arxiv.org/pdf/2104.00194)
+- MFANet: A Multi-Level Feature Aggregation Network for Semantic Segmentation of Land Cover
+- [High-Fidelity Pluralistic Image Completion with Transformers](https://arxiv.org/pdf/2103.14031)
+- [End-to-End Trainable Multi-Instance Pose Estimation with Transformers](https://arxiv.org/pdf/2103.12115)
