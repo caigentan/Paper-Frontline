@@ -32,3 +32,9 @@ If you have any high-quality papers or ideas that you want to share, we welcome 
 - MFANet: A Multi-Level Feature Aggregation Network for Semantic Segmentation of Land Cover
 - [High-Fidelity Pluralistic Image Completion with Transformers](https://arxiv.org/pdf/2103.14031)
 - [End-to-End Trainable Multi-Instance Pose Estimation with Transformers](https://arxiv.org/pdf/2103.12115)
+
+📅 - 2021-06-02
+- [Adaptive Context-Aware Multi-Modal Network for Depth Completion](https://arxiv.org/pdf/2008.10833)
+- [Dual Graph Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1909.06121)
+- [Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection](https://arxiv.org/pdf/2003.06167)
+- [CycleSegNet: Object Co-segmentation with Cycle Refinement and Region Correspondence](https://arxiv.org/pdf/2101.01308)
