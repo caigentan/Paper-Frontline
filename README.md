@@ -38,3 +38,9 @@ If you have any high-quality papers or ideas that you want to share, we welcome 
 - [Dual Graph Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1909.06121)
 - [Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection](https://arxiv.org/pdf/2003.06167)
 - [CycleSegNet: Object Co-segmentation with Cycle Refinement and Region Correspondence](https://arxiv.org/pdf/2101.01308)
+
+📅 - 2021-06-03
+- [RGB-T Crowd Counting from Drone: ABenchmark and MMCCN Network](https://openaccess.thecvf.com/content/ACCV2020/papers/Peng_RGB-T_Crowd_Counting_from_Drone_A_Benchmark_and_MMCCN_Network_ACCV_2020_paper.pdf)
+- [BTS-Net: Bi-directional Transfer-and-Selection Network For RGB-D Salient Object Detection](https://arxiv.org/pdf/2104.01784)
+- [Pose-GNN : Camera Pose Estimation System Using Graph Neural Networks](https://arxiv.org/pdf/2103.09435)
+- [AM-GCN: Adaptive Multi-channel Graph Convolutional Networks](https://arxiv.org/pdf/2007.02265)
