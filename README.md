@@ -49,3 +49,8 @@ If you have any high-quality papers or ideas that you want to share, we welcome 
 - [Multi-Level Attentive Convoluntional Neural Network for Crowd Counting](https://arxiv.org/pdf/2105.11422)
 - [S-AT GCN: Spatial-Attention Graph Convolution Network based Feature Enhancement for 3D Object Detection](https://arxiv.org/pdf/2103.08439)
 - A Comprehensive Survey on Graph Neural Networks
+
+📅 - 2021-06-22
+- [Hybrid attention network based on progressive embedding scale-context forcrowd counting](https://arxiv.org/pdf/2106.02324)
+- [DS-TransUNet: Dual Swin Transformer U-Netfor Medical Image Segmentation](https://arxiv.org/pdf/2106.06716)
+- [Tracking Pedestrian Heads in Dense Crowd](https://arxiv.org/pdf/2103.13516)
